@@ -4,7 +4,7 @@ Email Signature for [Walter Kwan Insurance Agency, Inc.](http://walterkwaninsura
 ```
 ********************************************
 Walter Kwan Insurance Agency, Inc.
-72 Kneeland Street, Suite 301
+200 Lincoln Street, Suite 202
 Boston, MA 02111
 (617) 482-6918 office
 (617) 482-7318 fax
