@@ -1,6 +1,8 @@
 # ✍ WKIA Email Signature
 Email Signature for [Walter Kwan Insurance Agency, Inc.](http://walterkwaninsurance.com/)
 
+(You can also get to this page via: http://bit.ly/wkia-email-signature)
+
 ```
 Walter Kwan Insurance Agency, Inc.
 200 Lincoln Street, Suite 202
